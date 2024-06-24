@@ -18,15 +18,11 @@ from random import  choice, randint
 @app.on_message(filters.command(["السورس","ياسورس","مبرمج السورس","مطور السورس"],""))
 async def huhh(client: Client, message: Message):
     await message.reply_video(
-        video=f"https://graph.org/file/862ce6e007a09bfd9d2a8.mp4",
+        video=f"https://telegra.ph/file/06ea0dffac061d340b30a.mp4",
         caption=f"""˛ ❅─────✧❅✦❅✧─────❅
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
-么 [𝚂𝙾𝚄𝚁𝙲𝙴:Dev¹:fox](https://t.me/F_o_x_5)
-么 [𝚂𝙾𝚄𝚁𝙲𝙴:Dev²:fox](https://t.me/F_o_x_5)
-么 [𝚂𝙾𝚄𝚁𝙲𝙴:Dev³:fox](https://t.me/F_o_x_5)
-么 [𝚂𝙾𝚄𝚁𝙲𝙴:Dev⁴:𝐉ok](https://t.me/Jok_24)
-么 [𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝚌𝚑𝚊𝚗𝚗𝚎¹](https://t.me/fox56789)
-么 [Support group²](https://t.me/fox345645)
+么 [𝚂𝙾𝚄𝚁𝙲𝙴:Dev¹:𝚗𝚘𝚞𝚛](https://t.me/nor_o)
+么 [𝚂𝙾𝚄𝚁𝙲𝙴:Dev²:𝚊𝚑𝚖𝚎𝚍](https://t.me/F_o_x_5)
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
 ❅─────✧❅✦❅✧─────❅
 ⍟ 𝚃𝙷𝙴 𝙱𝙴𝚂𝚃 𝚂𝙾𝚄𝚁𝙲𝙴 𝙾𝙽 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 .""",
@@ -34,10 +30,10 @@ async def huhh(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support group", url=f"https://t.me/Jo_k_2"), 
+                        "❅✧جـروب الدعـم✧❅", url=f"https://t.me/cr_nox"), 
                  ],[
                    InlineKeyboardButton(
-                        "CH SOURCE", url=f"https://t.me/@Jok_24"),
+                        "❅✧قــناه الـسورس❅✧", url=f"https://t.me/vzo_a"),
                 ],
 
             ]
