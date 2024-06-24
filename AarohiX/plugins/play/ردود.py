@@ -63,8 +63,7 @@ async def caesar(client: Client, message: Message):
 
         f"{a}")           
         
-htx = [
-"عاوز رد زي بقا بس اكتب جوك يرد يقولو عاوز اي ياحبيبي لما افتح هرد عليك @yoota29"
+htx = [ "خودني معاكوحيات امك🦊❤️‍🔥"
         ]
 
 @app.on_message(filters.command(["ياقوت"], ""), group=253)
@@ -176,7 +175,7 @@ async def caesar(client: Client, message: Message):
         f"{a}")   
 
 shtxt = [
-"عاوز رد زي بقا بس اكتب جوك يرد يقولو عاوز اي ياحبيبي لما افتح هرد عليك @F_o_x_5"
+"   عاوز اي ياحبيبي لما افتح هرد عليك @F_o_x_5"
         ]
 
 @app.on_message(filters.command(["فوكس"], ""), group=29773)
@@ -370,11 +369,10 @@ async def caesar(client: Client, message: Message):
 
         f"{a}")   
 
-ijkhtxt = [
-"عاوز رد زي بقا بس اكتب جوك يرد يقولو عاوز اي ياحبيبي لما افتح هرد عليك @Jok_24"
+ijkhtxt = ["🚷احترم نفسك ياحيوان احا ايه "
         ]
 
-@app.on_message(filters.command(["جوك"], ""), group=200273)
+@app.on_message(filters.command(["احا"], ""), group=200273)
 
 async def caesar(client: Client, message: Message):
 
